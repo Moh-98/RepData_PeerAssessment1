@@ -9,7 +9,6 @@ output:
 # load all packages used in this exploratory analysis
 library(knitr)
 library(dplyr)
-
 ```
 
 ```
@@ -43,7 +42,7 @@ opts_chunk$set(echo = TRUE)
 
 ```r
 # set up working directory
-setwd("C:/Users/Mohana Chakraborty/OneDrive/Desktop")
+ setwd("C:/Users/Mohana Chakraborty/OneDrive/Desktop/Data Science")
 ```
 
 
